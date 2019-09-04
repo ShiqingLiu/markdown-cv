@@ -1,91 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shiqing LIU's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shiqing LIU (刘世晴)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Undergraduate student, GPA 3.64
 
+Tel: 17724601449
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+E-mail: 11712008@mail.sustech.edu.cn
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2017 - present`
+__SOUTHERN UNIVERSITY OF SCIENCE AND TECHNOLOGY, Shenzhen.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+## Projects
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`September 2017`
 
-Associate, *French Academy of Science*, Paris, France
+National grants, Sustech, CN
 
+`September 2018`
 
+National grants, Sustech, CN
 
-## Publications
+Outstanding Student Scholarship, Second Prize, Sustech, CN
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`December 2018`
 
-### Journals
+Southern University of Science and Technology Programming Competition, Second Prize, Sustech, CN
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Practice Experience
 
-`1669`
-Lectiones opticæ.
+### Jobs in university
 
-etc. etc. etc.
+`2018` 
+Java mentor, College Learning Center, Sustech
 
-### Patents
+`2019`
+CS205 Student assistant, CS Department, Sustech
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+etc. 
 
+### Volunteers
 
-## Occupation
+`2018`
 
-`1600`
-__Royal Mint__, London
+China Artificial Intelligence Conference, Shenzhen, CN
 
-- Warden
-- Minted coins
+etc.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Interest
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: September 2019 -->
