@@ -4,7 +4,7 @@ title: Shiqing LIU's CV
 ---
 # Shiqing LIU (刘世晴)
 
-Undergraduate student, GPA 3.64
+Undergraduate student
 
 Tel: 17724601449
 
