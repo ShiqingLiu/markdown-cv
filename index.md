@@ -47,8 +47,8 @@ Java mentor, College Learning Center, Sustech
 C/C++ Programming Course(CS205) Student assistant, CS Department, Sustech
 
 `2020`
-C/C++ Programming Course(CS205) Student assistant, CS Department, Sustech
-Computer Organization Course(CS205) Student assistant, CS Department, Sustech
+C/C++ Programming Course(CS205) Student assistant, CS Department, Sustech\
+Computer Organization Course(CS205) Student assistant, CS Department, Sustech\
 Computer Network Course(CS205) Student assistant, CS Department, Sustech
 
 etc. 
