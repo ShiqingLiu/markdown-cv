@@ -20,7 +20,13 @@ __SOUTHERN UNIVERSITY OF SCIENCE AND TECHNOLOGY, Shenzhen.__
 
 `September 2019`
 
-Nailgun: Breaking the privilege isolation on ARM.
+Nailgun: Breaking the privilege isolation on ARM.\
+\
+* The project is based on a thesis of the same title. 
+* The topic was to use an external debug vulnerability in ARM cores to bypass TrustZone's isolation and access sensitive data in EL3.
+* Be the team member of the triple team, responsible for writing the code, and organize the weekly meeting with the tutor.
+* Learn a lot from the project.
+
 
 ## Awards
 
