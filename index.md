@@ -16,19 +16,19 @@ E-mail: 11712008@mail.sustech.edu.cn
 `September 2017 - present`
 __SOUTHERN UNIVERSITY OF SCIENCE AND TECHNOLOGY, Shenzhen.__
 
-## Projects
+## Research and Projects
 
+`September 2019`
 
+Nailgun: Breaking the privilege isolation on ARM.
 
 ## Awards
 
 `September 2017`
 
-National grants, Sustech, CN
+Outstanding Student Scholarship, Sustech, CN
 
 `September 2018`
-
-National grants, Sustech, CN
 
 Outstanding Student Scholarship, Second Prize, Sustech, CN
 
@@ -44,7 +44,12 @@ Southern University of Science and Technology Programming Competition, Second Pr
 Java mentor, College Learning Center, Sustech
 
 `2019`
-CS205 Student assistant, CS Department, Sustech
+C/C++ Programming Course(CS205) Student assistant, CS Department, Sustech
+
+`2020`
+C/C++ Programming Course(CS205) Student assistant, CS Department, Sustech
+Computer Organization Course(CS205) Student assistant, CS Department, Sustech
+Computer Network Course(CS205) Student assistant, CS Department, Sustech
 
 etc. 
 
@@ -57,7 +62,7 @@ China Artificial Intelligence Conference, Shenzhen, CN
 etc.
 
 ## Interest
-
+Reading and Cooking
 
 
 <!-- ### Footer
